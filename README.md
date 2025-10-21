@@ -1,4 +1,5 @@
-# atividade-branchess]
+# atividade-branchess
+**Nome:** Joao Miguel e João nery
 
 ## Pergunta 1
 **Explique a Diferença entre Branch, Merge e Pull Request**
